@@ -1,4 +1,4 @@
-<h3 align="center">I do things. tree.</h3>
+<h3 align="center">I do things. tree. 🌳</h3>
 
 <p align="center">
   <a href="https://github.com/B134x/Socratic-AI-Tutor">Socratic-AI-Tutor</a> | im a student, pray i make it into the finals 4 now 
