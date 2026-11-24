@@ -20,8 +20,8 @@
 - Attempting to build [Socratic-AI-Tutor](https://github.com/B134x/Socratic-AI-Tutor).
 
 ## check these cool projects out (i use them)
-**[Dorion](https://github.com/SpikeHD/Dorion)** : im broke so this helps A TON
-**[rox](https://github.com/zealsprince/rox)** : legit prolly the best music player i know
+- **[Dorion](https://github.com/SpikeHD/Dorion)**: im broke so this helps A TON
+- **[rox](https://github.com/zealsprince/rox)**: legit prolly the best music player i know
 
 ## Current Projects
 
