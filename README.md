@@ -4,8 +4,6 @@
   <a href="https://github.com/B134x/Socratic-AI-Tutor">Socratic-AI-Tutor</a> | im a student, pray i make it into the finals 4 now 
 </p>
 
-
-
 #### about me
 
 - I do Flutter, ESP32 and web backend stuff:
@@ -14,7 +12,8 @@
   - did some docker, kubernetes once
 - to do list:
   - omw to attempt a DAP
-  - omw to learn sum stm32
+  - want to learn sum stm32
+  - still need more ESP32 
   - trying to actually learn (pls me, do something)
 - i prefer cats, coffee if under deadlines, tea for every other time.
 - Attempting to build [Socratic-AI-Tutor](https://github.com/B134x/Socratic-AI-Tutor).
